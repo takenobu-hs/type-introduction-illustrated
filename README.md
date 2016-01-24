@@ -1,7 +1,5 @@
-Type introduction illustrated
-=============================
-  for casual haskellers
-  ---------------------
+Type introduction illustrated for casual haskellers
+===================================================
 
 This is an illustrated document about type introduction in Haskell
 
