@@ -3,8 +3,7 @@ Type introduction illustrated for casual haskellers
 
 This is an illustrated document about type introduction in Haskell
 
-Here is: [Type introduction illustrated for casual haskellers]
-(http://takenobu-hs.github.io/downloads/type_introduction_illustrated.pdf) (PDF).
+Here is: [Type introduction illustrated for casual haskellers](http://takenobu-hs.github.io/downloads/type_introduction_illustrated.pdf) (PDF).
 
 Contents
 --------
